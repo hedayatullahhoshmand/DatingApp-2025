@@ -1,0 +1,4 @@
+API/appsettings.Development.json
+API/dating.db*
+API/appsettings.json
+API/.config/dotnet-tools.json
